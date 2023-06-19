@@ -1,16 +1,16 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-body{
+body {
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-header{
+header {
     width: 1440px;
     height: 80px;
     display: flex;
@@ -19,13 +19,13 @@ header{
     background-color: wheat;
 }
 
-.logo{
+.logo {
     width: 100px;
     height: auto;
     border: royalblue;
 }
 
-ul{
+ul {
     width: 400px;
     height: 30px;
     display: flex;
@@ -34,23 +34,23 @@ ul{
     list-style: none;
 }
 
-a{
+a {
     text-decoration: none;
     font-size: 17px;
     font-family: sans-serif;
     color: blue;
 }
 
-section{
-    width:1440px;
-    height:400px;
-    display:flex;
-    aling-items:center;
+section {
+    width: 1440px;
+    height: 400px;
+    display: flex;
+    align-items: center;
     justify-content: center;
-    background:aqua;
+    background: aqua;
 }
 
-p{
-    font-size:30px;
-    color:white;
-    
+p {
+    font-size: 30px;
+    color: white;
+}
