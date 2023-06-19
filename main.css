@@ -3,3 +3,40 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header{
+    width: 1440px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: wheat;
+}
+
+.logo{
+    width: 100px;
+    height: auto;
+    border: royalblue;
+}
+
+ul{
+    width: 400px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    font-size: 17px;
+    font-family: sans-serif;
+    color: blue;
+}
