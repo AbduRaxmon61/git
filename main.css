@@ -40,3 +40,17 @@ a{
     font-family: sans-serif;
     color: blue;
 }
+
+section{
+    width:1440px;
+    height:400px;
+    display:flex;
+    aling-items:center;
+    justify-content: center;
+    background:aqua;
+}
+
+p{
+    font-size:30px;
+    color:white;
+    
